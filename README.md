@@ -1,3 +1,10 @@
+This repository is for my practice of learning about ARM exploitation using the FRDM-KL25z dev board.
+The idea is to create a series of buggy programs to exploit.
+
+
+
+***copied from the Bare Metal Arm code https://github.com/payne92/bare-metal-arm*** from which this would not be possible.
+
 Bare Metal Arm
 ==============
 
